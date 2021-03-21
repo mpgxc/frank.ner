@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Frank NER" src=".github/logo.png" width="400px" />
+    <img alt="Frank NER" src=".github/logo.png" width="300px" />
 </h1>
 
 <h4 align="center">
