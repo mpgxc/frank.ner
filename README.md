@@ -14,12 +14,12 @@
   </a>
   
   <a href="https://github.com/mpgxc/my.tcc.stuff/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mpgxc/experimental.Frankner.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mpgxc/frank.ner.svg">
   </a>
 
 
   <a href="https://github.com/mpgxc/my.tcc.stuff/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/mpgxc/experimental.Frankner?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/mpgxc/frank.ner?style=social">
   </a>
 	
 </p>
