@@ -1,5 +1,5 @@
 
-def input_new_phrase(text):
+def input_new_phrase(self, text):
     
     """
         Retorna uma lista contendo o primeiro elemento como as Palavras e o segundo elemento as Tags (Classes das palavras)
@@ -11,7 +11,7 @@ def input_new_phrase(text):
     
     x_new_tokens = [word_idx[word] for word in text.split()]
     
-    pred = model.predict(np.array([x_new_tokens]))
+    pred = self.model.predict(np.array([x_new_tokens]))
     pred = np.argmax(pred, axis=-1)[0]
     
     return [[word_list[w], tags[pred]] for (w, pred) in zip(range(len(x_new)), pred)]
